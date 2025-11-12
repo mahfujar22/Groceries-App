@@ -28,7 +28,6 @@ class _DetailsScreenState extends State<DetailsScreen> {
   Widget build(BuildContext context) {
     final authProvider = Provider.of<AuthProvider>(context);
     double totalPrice = localProduct.price * count;
-
     return Scaffold(
       appBar: AppBar(
         title: Text(localProduct.title),

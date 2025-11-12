@@ -31,7 +31,6 @@ class _AccountScreenState extends State<AccountScreen> {
     final authProvider = Provider.of<AuthProvider>(context);
     final profileData = authProvider.data;
     final user = profileData?['user'];
-    // change this line
     final userId = user?['id']?.toString() ?? 'N/A';
 
     return Scaffold(
@@ -68,7 +67,6 @@ class _AccountScreenState extends State<AccountScreen> {
                   ),
                   const SizedBox(height: 20),
                   Text(
-                    //change this line
                     user?['name'] ?? "Unknown User",
                     style: const TextStyle(
                       fontSize: 24,

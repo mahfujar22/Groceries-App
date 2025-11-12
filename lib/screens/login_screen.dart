@@ -16,13 +16,6 @@ class _LoginScreenState extends State<LoginScreen> {
   final TextEditingController _passwordTEController = TextEditingController();
   bool _obscureText = true;
 
-  // you must be remove it
-  @override
-  void initState() {
-    super.initState();
-    _emailTEController.text = "mahfujar26@gmail.com";
-    _passwordTEController.text = "123456789";
-  }
 
   @override
   Widget build(BuildContext context) {

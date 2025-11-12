@@ -179,6 +179,7 @@ class AuthProvider extends ChangeNotifier {
 
   /*-------------fetchProductsSection------*/
   static const String baseUrl = "https://fakestoreapi.com/products";
+
   static Future<List<Product>> fetchProducts() async {
     final response = await http.get(Uri.parse(baseUrl));
 
@@ -189,6 +190,8 @@ class AuthProvider extends ChangeNotifier {
       throw Exception('Failed to load products');
     }
   }
+
+
 
   /*-------------favoriteProductToggleSection------*/
   final List<Product> _favorites = [];
@@ -231,7 +234,7 @@ class AuthProvider extends ChangeNotifier {
 
   /*-------------Order Success Simulation------*/
   Future<void> completePayment(BuildContext context) async {
-    await Future.delayed(const Duration(seconds: 2)); // simulate delay
+    await Future.delayed(const Duration(seconds: 2));
     clearCart();
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(
