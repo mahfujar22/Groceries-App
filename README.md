@@ -15,13 +15,24 @@ Below are some UI previews from the app:
 
 ### 🔹 Screen Previews (Grid)
 
-| Screenshot 1 | Screenshot 2 |
-|--------------|--------------|
-| ![Screen1](assets/images/pages_desings/image-one.png) | ![Screen2](assets/images/pages_desings/Screenshot%202025-11-23%20170551.png) |
+| Screenshot 1                                             | Screenshot 2                                       |
+|----------------------------------------------------------|----------------------------------------------------|
+| ![Screen1](assets/images/pages_desings/welcome-page.png) | ![Screen2](assets/images/pages_desings/login-page) |
 
-| Screenshot 3 | Screenshot 4 |
-|--------------|--------------|
-| ![Screen3](assets/images/pages_desings/Screenshot%202025-11-23%20170809.png) | ![Screen4](assets/images/pages_desings/Screenshot%202025-11-23%20170955.png) |
+| Screenshot 3                                          | Screenshot 4                                          |
+|-------------------------------------------------------|-------------------------------------------------------|
+| ![Screen3](assets/images/pages_desings/image-one.png) | ![Screen4](assets/images/pages_desings/home-page.png) |
+
+
+| Screenshot 5                                                    | Screenshot 6                                          |
+|-----------------------------------------------------------------|-------------------------------------------------------|
+| ![Screen3](assets/images/pages_desings/productDetails-page.png) | ![Screen4](assets/images/pages_desings/cart-page.png) |
+
+
+
+| Screenshot 7                                                   | Screenshot 8                                             |
+|----------------------------------------------------------------|----------------------------------------------------------|
+| ![Screen3](assets/images/pages_desings/payment-successful.png) | ![Screen4](assets/images/pages_desings/profile-page.png) |
 
 ---
 
