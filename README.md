@@ -34,6 +34,11 @@ Below are some UI previews from the app:
 |----------------------------------------------------------------|----------------------------------------------------------|
 | ![Screen3](assets/images/pages_desings/payment-successful.png) | ![Screen4](assets/images/pages_desings/profile-page.png) |
 
+
+| Screenshot 9                                                   |                                            |
+|----------------------------------------------------------------|
+| ![Screen3](assets/images/pages_desings/Explore-page.png) | 
+
 ---
 
 ## 📘 Getting Started
