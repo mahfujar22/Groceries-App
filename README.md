@@ -15,9 +15,9 @@ Below are some UI previews from the app:
 
 ### 🔹 Screen Previews (Grid)
 
-| Screenshot 1                                             | Screenshot 2                                       |
-|----------------------------------------------------------|----------------------------------------------------|
-| ![Screen1](assets/images/pages_desings/welcome-page.png) | ![Screen2](assets/images/pages_desings/login-page) |
+| Screenshot 1                                             | Screenshot 2                                           |
+|----------------------------------------------------------|--------------------------------------------------------|
+| ![Screen1](assets/images/pages_desings/welcome-page.png) | ![Screen2](assets/images/pages_desings/login-page.png) |
 
 | Screenshot 3                                          | Screenshot 4                                          |
 |-------------------------------------------------------|-------------------------------------------------------|
