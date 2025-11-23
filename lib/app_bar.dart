@@ -25,11 +25,10 @@ class GroceriesApp extends StatelessWidget {
                   )
               )
           ),
-
           elevatedButtonTheme: ElevatedButtonThemeData(
             style: ElevatedButton.styleFrom(
-                minimumSize: const Size(350, 55),
-                backgroundColor: const Color(0xFF53B175),
+                minimumSize:  Size(350, 55),
+                backgroundColor: Color(0xFF53B175),
                 foregroundColor: Colors.white,
                 shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(12),

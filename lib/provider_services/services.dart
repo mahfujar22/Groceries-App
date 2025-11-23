@@ -243,6 +243,10 @@ class AuthProvider extends ChangeNotifier {
       ),
     );
   }
+
+
+
+
 }
 
 
